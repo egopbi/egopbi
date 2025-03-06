@@ -7,15 +7,15 @@
 
 <div>
   <a href="https://t.me/egopbi">
-    <img height="50" width="50" src="https://cdn.simpleicons.org/telegram"/>
+    <img height="40" width="40" src="https://cdn.simpleicons.org/telegram"/>
   </a>
     
   <a href="https://www.facebook.com/profile.php?id=61573778946596/">
-    <img height="50" width="50" src="https://cdn.simpleicons.org/facebook"/>
+    <img height="40" width="40" src="https://cdn.simpleicons.org/facebook"/>
   </a>
   
   <a href="https://www.linkedin.com/in/%D0%B3%D0%B5%D0%BE%D1%80%D0%B3%D0%B8%D0%B9-%D0%BF%D0%BE%D0%BF%D0%BE%D0%B2-508962291/">
-    <img height="50" width="50" src="https://skillicons.dev/icons?i=linkedin"/>
+    <img height="40" width="40" src="https://skillicons.dev/icons?i=linkedin"/>
   </a>
 
 </div>
