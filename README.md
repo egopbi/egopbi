@@ -21,7 +21,7 @@
 </div>
 
 # About me
-- 💻 I'm a Junior Backend Developer on python
+- 💻 I'm a Backend Developer on python
 
 - 👨‍🎓 A final-year student of the Chemistry Department of Lomonosov Moscow State University
 
@@ -30,6 +30,8 @@
 - 📊 Had a six-month internship at Ratex Network
 
 - 🔗 Interested in web3 technologies
+
+- 💬 Running my blog on [Telegram](https://t.me/codenchiks)
 
 - 👾 Fond of automating everyday tasks using Python
 
